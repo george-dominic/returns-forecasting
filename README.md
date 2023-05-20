@@ -3,11 +3,11 @@
 Welcome to the returns-forecasting repository! This project is aimed at forecasting timeseries returns for S&P500 stocks and Bloomberg Barclays US Aggregate Bond Index. This README file will guide you through the process of setting up and running the project on your local machine.
 
 ## Table of Contents
-- Prerequisites
+- Pre-requisites
 - Installation
 - Usage
 
-## Prerequisites
+## Pre-requisites
 - **Python**: Make sure you have Python installed on your machine. You can download the latest version of Python from the official Python website: python.org.
 
 - **Package Manager**: Install a package manager like pip or conda. Pip is the default package manager for Python and is usually pre-installed with Python. Conda is an alternative package manager that is often used for managing Python environments. You can install conda by downloading Anaconda or Miniconda from their respective websites.
